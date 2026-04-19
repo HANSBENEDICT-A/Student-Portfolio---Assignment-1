@@ -1,4 +1,4 @@
 My name is Hans Benedict.
 I am a student interested in technology and programming.
 I enjoy learning web development and creating projects.
-I am very excited to learn about new things in this project.
+I am very excited to learn about new things in web development project.
